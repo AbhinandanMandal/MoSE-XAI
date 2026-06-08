@@ -1,4 +1,5 @@
-# **MoSE-XAI**
+# **MoSE-XAI (Accepted COMSNETS Graduate Forum 2026)**
+<img width="1448" height="1086" alt="ChatGPT Image Jun 8, 2026, 12_46_50 PM" src="https://github.com/user-attachments/assets/384b0bd6-7839-489e-85fe-d37d63218aae" />
 
 This project implements a modified **MobileNetV2 architecture** enhanced with a **Squeeze-and-Excitation (SE) block** to improve feature recalibration and model performance in crop disease detection for **soybean** and **sugarcane**.
 To ensure transparency and interpretability, the model integrates **Explainable AI (XAI)** techniques using **Grad-CAM** for visual explanation of predictions.
@@ -38,11 +39,6 @@ All datas are collected from [Mendeley Data](https://data.mendeley.com/).
 
 ---
 
-## **Author**
-
+## **Thanks**
 Abhinadan Mandal
-
-[Linkedin](https://www.linkedin.com/in/abhinandan-mandal-9252a0211/)
-
-[Medium](https://medium.com/@writewithabhi)
 
